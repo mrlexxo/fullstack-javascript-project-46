@@ -13,6 +13,7 @@
   "author": "Aleksandr Ogorodov",
   "license": "ISC",
   "dependencies": {
+    "@jest/globals": "^29.7.0",
     "commander": "^13.1.0",
     "lodash": "^4.17.21",
     "yaml": "^2.7.0"
